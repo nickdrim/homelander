@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: admin
+    password: homelander
+    url: jdbc:postgresql://localhost:5432/homelander
+    driver-class-name: org.postgresql.Driver
+  sql:
+    init:
+      mode: always
