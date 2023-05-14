@@ -1,9 +1,19 @@
 # Homelander
 
 - [Homelander](#homelander)
+  - [Design choices](#design-choices)
   - [Database](#database)
     - [Setup database](#setup-database)
     - [Access database](#access-database)
+
+## Design choices
+
+- **Database:**
+  For database I selected postgres as it offers many features and is widely used in many applications. Also I have more experience with it and I would like to further develop my skills and knowledge on it.
+- **Web server**:
+  For the web server I used java spring boot as it is a very popular framework and I want to gain some experience with it. For build automation tool I selected gradle instead of maven as it is the standard used by many applications and it is much easier to setup.
+- **Application server**:
+  For the frontend framework I chose vue and specifically nuxt framework. I have good experience with vue and I wanted some experience with nuxt even though for the purposes of this project it is a bit of an overkill.
 
 ## Database
 
